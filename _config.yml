@@ -18,12 +18,12 @@ avatar: https://www.bloemert.com/wp-content/themes/Bloemert/images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: dev@bloemert.com
+  facebook: bloemertIT
   flickr:
   github: bloemert
   instagram:
-  linkedin:
+  linkedin: bloemert
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: BloemertIT
