@@ -1,5 +1,4 @@
-﻿# Implementing Composition in your Web Project the right way
-I have been using `System.ComponentModel.Composition` (previously MEF) for quite some time now, and it really
+﻿I have been using `System.ComponentModel.Composition` (previously MEF) for quite some time now, and it really
 is a very useful library that greatly adds flexibility to your system if used the right way.
 
 In this article, I assume you have some knowledge of the `System.ComponentModel.Composition`
