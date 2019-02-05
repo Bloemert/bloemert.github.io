@@ -46,8 +46,8 @@ NB: Note that we have other quadrants than ThoughtWorks and Zalando. We have mod
 
 ### Rings
 - **Adopt**. Please use this technology if you can. It is proven, mature and without risk to use. Strongly recommended.
-- **Trial**. You can use this technology pretty safely. We have seen successful projects to solve real problems. However, it is too early, or we are not confident enough, to put it in the Adopt ring. Use it, but with care.
-- **Assess**. Very promising technology with clear potential. It is worth to invest some time and to see if it might something for you. But we do not encourage to use it in current projects unless you think they would be a particularly good fit for you. Play with it, follow it closely.
+- **Trial**. You can use this technology pretty safely. We have seen successful projects using it to solve real problems. However, it is too early, or we are not confident enough, to put it in the Adopt ring. Use it, but with care.
+- **Assess**. Very promising technology with clear potential. It is worth to invest some time and to see if it might be something for you. We do not encourage to use it in current projects unless you think they would be a particularly good fit for you. Play with it, follow it closely.
 - **Hold**. Please do not use this technology (anymore). Never use this on new projects and be aware that technology can be a big risk in existing projects. Strongly discouraged.
 
 NB: Sometimes the opinions of the Hold rings differs. Some say it should only contain legacy, old, abandoned technologies while others say it should include technologies that are *not ready* (for example because of immaturity, stability, support etc.). The Bloemert Tech Radar follows the first statement, but this might change in the future.
@@ -58,7 +58,7 @@ The blips, or dots, on the radar, represent the actual technologies. Please chec
 
 ## Where is it?
 
-[Bloemert Tech Radar 2019](https://radar.bloemert.com)
+[Bloemert Tech Radar](https://radar.bloemert.com)
 
 ## More info
 For more info, please check out Tech Radars of ThoughtWorks and Zalando:
