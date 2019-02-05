@@ -12,11 +12,11 @@ layout: default
   {% assign author = site.data.authors[page.author] %}
   
   {% if author %}
-    <div class="date" style="display: inline">
+    <div class="date">
       Written on {{ page.date | date: "%B %e, %Y" }} by <a href="{{ author.github }}" target="_blank">{{ author.name }}</a>
     </div>
   {% else %}
-    <div class="date" style="display: inline">
+    <div class="date">
       Written on {{ page.date | date: "%B %e, %Y" }}
     </div>
   {% endif %}
