@@ -42,7 +42,7 @@ The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / catego
 - **Storage & Messaging**. Mostly databases but also messaging and bus systems (temporary storage).
 - **Infrastructure & Tools**. Primarily tools for development, DevOps, CI/CD but also infrastructure like hosting systems.
 
-NB: Note that we have other quadrants than ThoughtWorks and Zalando. We have modified it so that it fits our needs. One important difference with ThoughtWorks is that we do not include *techniques*, or what we call *guidelines & best practices*. We have another idea about that. Our radar only includes **concrete** technologies, most of the time they are real products. Sometimes this also *implies* the platform. For example: when we adopt Azure Functions, it is also pretty clear that we adopt Azure as a cloud platform.
+NB: Note that we have other quadrants than ThoughtWorks and Zalando. We have modified it so that it fits our needs. One important difference with ThoughtWorks is that we do not include *techniques*, or what we call *engineering guidelines & best practices*. We have another idea about that. Our radar only includes **concrete** technologies, most of the time they are real products. Sometimes this also *implies* the platform. For example: when we adopt Azure Functions, it is also pretty clear that we adopt Azure as a cloud platform.
 
 ### Rings
 - **Adopt**. Please use this technology if you can. It is proven, mature and without risk to use. Strongly recommended.
