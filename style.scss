@@ -123,6 +123,11 @@ img {
   color: $gray;
 }
 
+.edit {
+  font-style: italic;
+  font-size: 14px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
