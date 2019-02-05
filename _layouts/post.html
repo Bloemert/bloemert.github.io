@@ -9,20 +9,21 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date" style="display: inline">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  {% assign author = site.data.authors[page.author] %}
+  
+  {% if author %}
+    <div class="date" style="display: inline">
+      Written on {{ page.date | date: "%B %e, %Y" }} by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </div>
+  {% else %}
+    <div class="date" style="display: inline">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+  {% endif %}
+  
   <a href="https://github.com/{{site.github_repo}}/edit/{{site.github_branch}}/{{page.path}}" style="display: inline" class="edit" target="blank">
     Edit on GitHub
   </a>
-  
-  {% assign author = site.data.authors[page.author] %}
-
-  {% if author %}
-    <span>
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-    </span>
-  {% endif %}
 
   {% include disqus.html %}
 </article>
