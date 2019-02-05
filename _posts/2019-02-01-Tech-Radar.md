@@ -14,7 +14,7 @@ We are pleased to announce that we will publish the Bloemert Tech Radar! What us
 <!-- The Technology Radar is our thoughts on emerging technology trends in the industry. Read the latest here. -->
 <!-- The Zalando Tech Radar is a list of technologies, complemented by an assessment result, called ring assignment. We use four rings with the following semantics ... -->
 
-The Tech Radar is a way to follow technical trends in the software industry. Inspired by Thoughtworks and Zalando, we follow the latest and most relevant trends in our industry and qualify each technology. This way, you can get a clear picture of which technologies are new, interesting, recommended, dangerous and so on.
+The Tech Radar is a way to follow technical trends in the software industry. Inspired by Thoughtworks and Zalando, we follow the latest and most relevant trends in our industry and qualify each technology. This way, we provide a clear picture of which technologies are new, interesting, recommended, dangerous and so on.
 
 By we, we mean the Technical Steering Group (TSG) of Bloemert. The TSG is a group of technical experts that follow trends very closely and also have a lot of experience in different area's.
 
