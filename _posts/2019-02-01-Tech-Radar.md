@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloemert Tech Radar now public available!
+title: Bloemert Tech Radar now public!
 ---
 
 We are pleased to announce that we will publish the Bloemert Tech Radar! What used to be an internal tool, it will be now available to everyone.
