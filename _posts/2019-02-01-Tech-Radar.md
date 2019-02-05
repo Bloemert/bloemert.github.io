@@ -26,8 +26,9 @@ The Bloemert Tech Radar serves different purposes:
 
 1. To inspire and advice development teams inside Bloemert, both internal and external projects.
 2. To drive and support internal projects like traineeships, education, events and recruitment.
-3. To show the outside world what our vision or view is the available development / tech stacks. Also to show what tech we (probably) use or strive for.
+3. To show the outside world what our vision or view is on the available development stacks, and to show what we (probably) use or strive for.
 
+<!-- And to show what tech we (probably) use or strive for. -->
 <!-- It can also been seen as a contribution in the .NET and dev space. -->
 <!-- We realize that we are not the authority that for example ThoughtWorks is, so we will not pretend it either.  -->
 
