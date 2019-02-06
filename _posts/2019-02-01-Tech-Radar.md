@@ -35,8 +35,6 @@ The Bloemert Tech Radar serves different purposes:
 
 ## How does it work?
 
-The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / categories in which technologies reside. 
-
 ### Quadrants
 
 The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / categories in which technologies reside. 
