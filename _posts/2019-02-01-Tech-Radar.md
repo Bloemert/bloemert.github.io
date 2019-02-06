@@ -39,6 +39,11 @@ The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / catego
 
 ### Quadrants
 
+The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / categories in which technologies reside. 
+
+<!-- ![Quadrants](../images/quadrants.png "Quadrants") -->
+<img src="../images/quadrants.png" alt="quadrants" />
+
 - **Languages & Editors**. Programming languages and editors or IDE's. Markup languages are also included. 
 - **Frameworks & Libraries**. Frameworks and libraries that can be used for programming. 
 - **Storage & Messaging**. Mostly databases but also messaging and bus systems (temporary storage).
@@ -47,6 +52,11 @@ The Tech Radar is divided in 4 so-called quadrants. Quadrant are area's / catego
 NB: Note that we have other quadrants than ThoughtWorks and Zalando. We have modified it so that it fits our needs. One important difference with ThoughtWorks is that we do not include *techniques*, or what we call *engineering guidelines & best practices*. We have another idea about that. Our radar only includes **concrete** technologies, most of the time they are real products. Sometimes this also *implies* the platform. For example: when we adopt Azure Functions, it is also pretty clear that we adopt Azure as a cloud platform.
 
 ### Rings
+
+Besides quadrants, technologies are assigned into a certain ring. This is also called *ring assessment*. Rings are important because they specify the actual status of a technology.
+
+<img src="../images/rings.png" alt="rings" width="auto"/>
+
 - **Adopt**. Please use this technology if you can. It is proven, mature and without risk to use. Strongly recommended.
 - **Trial**. You can use this technology pretty safely. We have seen successful projects using it to solve real problems. However, it is too early, or we are not confident enough, to put it in the Adopt ring. Use it, but with care.
 - **Assess**. Very promising technology with clear potential. It is worth to invest some time and to see if it might be something for you. We do not encourage to use it in current projects unless you think they would be a particularly good fit for you. Play with it, follow it closely.
@@ -56,7 +66,7 @@ NB: Sometimes the opinions of the Hold rings differs. Some say it should only co
 
 ### Blips
 
-The blips, or dots, on the radar, represent the actual technologies. Please check in which quadrant and ring they belong to see how it is qualified by the TSG.
+The blips, or dots, on the radar represent the actual technologies. Please check in which quadrant and ring they belong to see how it is qualified by the TSG.
 
 ## Where is it?
 
